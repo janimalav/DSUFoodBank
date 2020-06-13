@@ -1,0 +1,42 @@
+@import "src/theme/theme-variables";
+
+:host {
+  display: flex;
+  flex: 1;
+  min-height: 100vh;
+  flex-direction: row;
+  background-color: rgb(211, 211, 211);
+}
+
+.inline-loader {
+  display: inline-block;
+}
+
+.version {
+  margin: 0;
+}
+
+.login-container,
+.mat-form-field {
+  width: 100%;
+}
+
+.login-fields > :not(:last-child) {
+  margin-bottom: 8px;
+}
+
+.login-error {
+  color: mat-color($app-warn);
+}
+
+.card {
+  margin-top: 20vh;
+}
+h2 {
+  text-align: center;
+}
+.txt,
+a,
+p {
+  text-align: right;
+}

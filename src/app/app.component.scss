@@ -1,0 +1,22 @@
+:host {
+  min-height: 100vh;
+  flex-direction: row;
+  width: 100%;
+}
+
+.page-footer {
+  background-color: #22211f;
+  color: white;
+}
+hr {
+  border-color: #666;
+}
+.footer_title {
+  text-align: right;
+}
+.footer-menu {
+  text-align: left;
+}
+.nav-link.waves-effect {
+  color: white;
+}
