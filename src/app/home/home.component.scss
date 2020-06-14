@@ -1,8 +1,8 @@
-#hero-section {
+#home-section {
   height: 80vh;
   background: url(../../assets/img/2.jpg) no-repeat center center/cover;
 }
-.hero-content {
+.home-content {
   display: flex;
   justify-content: center;
   align-items: left;
@@ -18,9 +18,9 @@
   background: rgba(0, 0, 0, 0.6);
 }
 
-.hero-content h1 {
+.home-content h1 {
   font-size: 3rem;
 }
-.hero-content p {
+.home-content p {
   max-width: 900px;
 }

@@ -5,9 +5,13 @@
   flex: 1;
   min-height: 100vh;
   flex-direction: row;
-  background-color: rgb(211, 211, 211);
 }
 
+img
+{
+  //margin-left: 20vh;
+  //margin-top: 20vh;
+}
 .inline-loader {
   display: inline-block;
 }
@@ -30,7 +34,7 @@
 }
 
 .card {
-  margin-top: 20vh;
+  //margin-top: 20vh;
 }
 h2 {
   text-align: center;
