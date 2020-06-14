@@ -23,7 +23,7 @@ export class OrdersComponent implements OnInit, OnDestroy {
     this.xyz.paginator = this.paginator;
     this.xyz.sort = this.sort;
   }
-
+  
   ngOnDestroy() {}
 
   fung(element: any) {
