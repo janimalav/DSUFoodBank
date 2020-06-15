@@ -47,7 +47,7 @@ npm run build
 3. **Order** - https://dsufoodbank.herokuapp.com/orders
 4. **Order Detail** - https://dsufoodbank.herokuapp.com/orders/7542 
 >### Note:
->**Order Detail** page can only be accesse using the view *order* button present in Order page tabel.
+>**Order Detail** page can only be accesse using the view *order* button present in Order page table.
 5. **404 Error Page** - https://dsufoodbank.herokuapp.com/404
 ---
 ## 2.3 About Pages
@@ -183,18 +183,18 @@ The code above was created by adapting the code from [Range.io](https://angular-
 - [7] Twitter.com. 2020. DSU Food Bank (@Dsufoodbank) On Twitter. [online] Available at: <https://twitter.com/dsufoodbank> [Accessed 15 June 2020].
 - [8] Facebook.com. 2020. Dalhousie Student Union. [online] Available at: <https://www.facebook.com/dalstudentunion/> [Accessed 15 June 2020].
 ## 3.2 Image Refrences
-- [1]DNAinfo Chicago. 2020. Feed Your Neighbors This Holiday Season, Donate To Food Pantries. [online] Available at: <https://www.dnainfo.com/chicago/20161116/irving-park/food-pantries-lincoln-square-irving-park-albany-park-donate-volunteer-what-need/> [Accessed 15 June 2020].
+- [1] [Home Page](https://dsufoodbank.herokuapp.com/home)-DNAinfo Chicago. 2020. Feed Your Neighbors This Holiday Season, Donate To Food Pantries. [online] Available at: <https://www.dnainfo.com/chicago/20161116/irving-park/food-pantries-lincoln-square-irving-park-albany-park-donate-volunteer-what-need/> [Accessed 15 June 2020].
 
-- [2] Freepik. 2020. Download Error 404 Concept For Landing Page For Free. [online] Available at: <https://www.freepik.com/free-vector/error-404-concept-landing-page_5135455.htm#page=1&query=404%20page&position=13> [Accessed 15 June 2020].
+- [2] [404](https://dsufoodbank.herokuapp.com/404)-Freepik. 2020. Download Error 404 Concept For Landing Page For Free. [online] Available at: <https://www.freepik.com/free-vector/error-404-concept-landing-page_5135455.htm#page=1&query=404%20page&position=13> [Accessed 15 June 2020].
 
-- [3] Highwayhospice.co.za. 2020. Groceries & Toiletries – Highway Hospice. [online] Available at: <https://highwayhospice.co.za/product/groceries-toiletries/> [Accessed 15 June 2020].
+- [3] [Login](https://dsufoodbank.herokuapp.com/login)-Highwayhospice.co.za. 2020. Groceries & Toiletries – Highway Hospice. [online] Available at: <https://highwayhospice.co.za/product/groceries-toiletries/> [Accessed 15 June 2020].
 
-- [4] Ya-webdesign.com. 2020. Download Clipart - Thank You For Using YAWD. [online] Available at: <https://ya-webdesign.com/imgdownload.html> [Accessed 15 June 2020].
+- [4] [Home Page](https://dsufoodbank.herokuapp.com/home)- Ya-webdesign.com. 2020. Download Clipart - Thank You For Using YAWD. [online] Available at: <https://ya-webdesign.com/imgdownload.html> [Accessed 15 June 2020].
 
-- [5] Vectors, R. and Vectors, D., 2020. Volunteers With Donation Boxes Isolated On White Vector Image On Vectorstock. [online] VectorStock. Available at: <https://www.vectorstock.com/royalty-free-vector/volunteerswith-donation-boxes-isolated-on-white-vector-10358199> [Accessed 15 June 2020].
+- [5] [Order-Details](https://dsufoodbank.herokuapp.com/orders/7542)-Vectors, R. and Vectors, D., 2020. Volunteers With Donation Boxes Isolated On White Vector Image On Vectorstock. [online] VectorStock. Available at: <https://www.vectorstock.com/royalty-free-vector/volunteerswith-donation-boxes-isolated-on-white-vector-10358199> [Accessed 15 June 2020].
 
-- [6] Canstockphoto.es. 2020. Los Voluntarios Apoyan La Caja De Alimentos Vector Delgada Línea Icono. Los Voluntarios Apoyan, Ayudan A Organizaciones. [online] Available at: <https://www.canstockphoto.es/caja-alimento-apoyo-vector-l%C3%ADnea-71833415.html> [Accessed 15 June 2020].
-- [7] Pinterest. 2020. Shopping Basket Free Vector Icons Designed By Hevngrafix | Бесплатные Иконки, Иконки. [online] Available at: <https://in.pinterest.com/pin/819584832164797443/> [Accessed 15 June 2020].
+- [6] [Home Page](https://dsufoodbank.herokuapp.com/home)-Canstockphoto.es. 2020. Los Voluntarios Apoyan La Caja De Alimentos Vector Delgada Línea Icono. Los Voluntarios Apoyan, Ayudan A Organizaciones. [online] Available at: <https://www.canstockphoto.es/caja-alimento-apoyo-vector-l%C3%ADnea-71833415.html> [Accessed 15 June 2020].
+- [7] [Home Page](https://dsufoodbank.herokuapp.com/home)-Pinterest. 2020. Shopping Basket Free Vector Icons Designed By Hevngrafix | Бесплатные Иконки, Иконки. [online] Available at: <https://in.pinterest.com/pin/819584832164797443/> [Accessed 15 June 2020].
 
 ## Date Created
 * Date Created: 11 JUN 2020
