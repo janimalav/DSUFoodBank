@@ -12,7 +12,9 @@ import { Router } from '@angular/router';
 })
 export class OrdersComponent implements OnInit, OnDestroy {
   constructor(private router: Router) {}
-
+  //https://material.angular.io/components/table/overview for pagination and sorting
+  //As I am working in angular for the first time and have never used the Angular material table
+  //I did not have any idea of how to set pagination and sorting in Angular Material Table
   displayedColumns: string[] = ['Order Id.', 'placed_date', 'pickup_date', 'status', 'actions'];
   xyz = new MatTableDataSource<orders>(ORDERS);
 
@@ -23,7 +25,7 @@ export class OrdersComponent implements OnInit, OnDestroy {
     this.xyz.paginator = this.paginator;
     this.xyz.sort = this.sort;
   }
-  
+
   ngOnDestroy() {}
 
   fung(element: any) {

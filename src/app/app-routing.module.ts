@@ -8,7 +8,7 @@ import { HomeComponent } from './home/home.component';
 import { AuthenticationGuard } from './auth';
 
 const routes: Routes = [
-  { path: '', redirectTo: 'login', pathMatch: 'full' },
+  { path: '', redirectTo: 'home', pathMatch: 'full' },
   { path: 'home', component: HomeComponent, data: { title: extract('Home') } },
   {
     path: 'orders',
